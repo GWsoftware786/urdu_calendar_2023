@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-ads-base:15.0.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../DraggableTreeView-master/app/caches/transforms-1/files-1.1/play-services-ads-base-15.0.0.aar/24fdd76d77b76bfc90e2add25e63ba5e/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../DraggableTreeView-master/app/caches/transforms-1/files-1.1/play-services-ads-base-15.0.0.aar/24fdd76d77b76bfc90e2add25e63ba5e/res" />
+      <root url="file://$PROJECT_DIR$/../DraggableTreeView-master/app/caches/transforms-1/files-1.1/play-services-ads-base-15.0.0.aar/24fdd76d77b76bfc90e2add25e63ba5e/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.0.aar/5b2f20982b5ec845a70b90136c3e7dae/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.0.aar/5b2f20982b5ec845a70b90136c3e7dae/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.0.aar/5b2f20982b5ec845a70b90136c3e7dae/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

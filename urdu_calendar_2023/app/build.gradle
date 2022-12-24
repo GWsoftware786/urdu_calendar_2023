@@ -1,0 +1,47 @@
+apply plugin: 'com.android.application'
+
+android {
+    /*signingConfigs {
+        config {
+            keyAlias 'key0'
+            keyPassword 'gws@786'
+            storeFile file('/Users/mahaboob/Desktop/release/urdu_calender/keyfile.jks')
+            storePassword 'gws@786'
+        }
+    }*/
+    compileSdkVersion 31
+    buildToolsVersion "28.0.3"
+    defaultConfig {
+        applicationId "com.gws.calendar2018"
+        minSdkVersion 18
+        targetSdkVersion 31
+        versionCode 23
+        versionName "7.5"
+        vectorDrawables.useSupportLibrary = true
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    androidTestImplementation('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    implementation 'com.android.support:appcompat-v7:31.0.0'
+    implementation 'com.android.support:design:31.0.0'
+    implementation 'com.github.chrisbanes:PhotoView:1.2.6'
+    implementation 'com.google.android.gms:play-services-ads:15.0.0'
+    testImplementation 'junit:junit:4.12'
+    implementation 'com.yalantis:contextmenu:1.0.7'
+    implementation 'com.uncopt:android.justified:1.0'
+    implementation 'com.ToxicBakery.viewpager.transforms:view-pager-transforms:1.2.32@aar'
+    implementation project(':pageindicatorview')
+    implementation 'org.jsoup:jsoup:1.12.1'
+
+}

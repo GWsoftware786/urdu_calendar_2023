@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.chrisbanes:PhotoView:1.2.6@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../DraggableTreeView-master/app/caches/transforms-1/files-1.1/PhotoView-1.2.6.aar/a4b87d5e4c1665c0644a918a7987780d/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../DraggableTreeView-master/app/caches/transforms-1/files-1.1/PhotoView-1.2.6.aar/a4b87d5e4c1665c0644a918a7987780d/res" />
+      <root url="file://$PROJECT_DIR$/../DraggableTreeView-master/app/caches/transforms-1/files-1.1/PhotoView-1.2.6.aar/a4b87d5e4c1665c0644a918a7987780d/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/PhotoView-1.2.6.aar/81f0b4831906bc779e72acbda8349747/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-PhotoView-1.2.6.aar/9c2f49fe147f8741871722495cc71f53/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-PhotoView-1.2.6.aar/9c2f49fe147f8741871722495cc71f53/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-PhotoView-1.2.6.aar/9c2f49fe147f8741871722495cc71f53/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../DraggableTreeView-master/app/caches/modules-2/files-2.1/com.github.chrisbanes/PhotoView/1.2.6/3854cf8a92f20e89a14d6c6bdf5860ae034cc7be/PhotoView-1.2.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

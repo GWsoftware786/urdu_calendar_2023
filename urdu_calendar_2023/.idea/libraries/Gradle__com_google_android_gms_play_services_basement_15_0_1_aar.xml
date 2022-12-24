@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-basement:15.0.1@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../DraggableTreeView-master/app/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/84e013121ea5c8ca45ce5139450ef239/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../DraggableTreeView-master/app/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/84e013121ea5c8ca45ce5139450ef239/res" />
+      <root url="file://$PROJECT_DIR$/../DraggableTreeView-master/app/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/84e013121ea5c8ca45ce5139450ef239/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-15.0.1.aar/1985c4e5847a63e11601e1c86b7dd997/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-15.0.1.aar/1985c4e5847a63e11601e1c86b7dd997/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-15.0.1.aar/1985c4e5847a63e11601e1c86b7dd997/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

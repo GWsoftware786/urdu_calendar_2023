@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Urdu Calendar 2023</string>
+    <!-- AdMob ad unit IDs -->
+    <string name="banner_add_id">ca-app-pub-5199603253701628/1752380271</string>
+
+    <string name="aboutUs">
+ \n GW Software Solutions : \n
+We are a group of young entrepreneurs with creative thinking that could change
+the way we leave in today\'s IT World and  help people to make things easy.
+Our concepts are new and creative which people has never seen before.
+We are  expert in building Web, Mobile and Enterprise Applications
+starting from Designing, Developing, Maintaining and Securing the application,
+which helps customer grow and transform their business into IT solution easily.\n\n
+Contact Us :\n
+
+s.munwwer@gmail.com\n
+
+Phone: 9640636265\n
+</string>
+</resources>

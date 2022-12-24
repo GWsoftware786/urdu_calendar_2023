@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.yalantis:contextmenu:1.0.7@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../DraggableTreeView-master/app/caches/transforms-1/files-1.1/contextmenu-1.0.7.aar/4fd381f942e77dac152bdbf5d22dfdb4/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../DraggableTreeView-master/app/caches/transforms-1/files-1.1/contextmenu-1.0.7.aar/4fd381f942e77dac152bdbf5d22dfdb4/res" />
+      <root url="file://$PROJECT_DIR$/../DraggableTreeView-master/app/caches/transforms-1/files-1.1/contextmenu-1.0.7.aar/4fd381f942e77dac152bdbf5d22dfdb4/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-contextmenu-1.0.7.aar/241d97fbde17a8d633cc9f8f2a7338d6/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-contextmenu-1.0.7.aar/241d97fbde17a8d633cc9f8f2a7338d6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-contextmenu-1.0.7.aar/241d97fbde17a8d633cc9f8f2a7338d6/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../DraggableTreeView-master/app/caches/modules-2/files-2.1/com.yalantis/contextmenu/1.0.7/ebd45837a88ed45c1b7d1cba9a2f20876cf6f7ea/contextmenu-1.0.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

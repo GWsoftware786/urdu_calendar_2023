@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-ads-lite:15.0.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../DraggableTreeView-master/app/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.0.aar/46de09c98ce9df759c57a043e0655cc8/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../DraggableTreeView-master/app/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.0.aar/46de09c98ce9df759c57a043e0655cc8/res" />
+      <root url="file://$PROJECT_DIR$/../DraggableTreeView-master/app/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.0.aar/46de09c98ce9df759c57a043e0655cc8/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-play-services-ads-lite-15.0.0.aar/ecdc2058f244e1718d33b214b834cb88/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-play-services-ads-lite-15.0.0.aar/ecdc2058f244e1718d33b214b834cb88/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-play-services-ads-lite-15.0.0.aar/ecdc2058f244e1718d33b214b834cb88/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

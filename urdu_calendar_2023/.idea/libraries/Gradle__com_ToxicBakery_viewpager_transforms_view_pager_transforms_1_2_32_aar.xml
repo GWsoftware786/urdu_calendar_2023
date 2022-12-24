@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.ToxicBakery.viewpager.transforms:view-pager-transforms:1.2.32@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../DraggableTreeView-master/app/caches/transforms-1/files-1.1/view-pager-transforms-1.2.32.aar/6e85e108bb745393ce494d148bd4e12a/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../DraggableTreeView-master/app/caches/transforms-1/files-1.1/view-pager-transforms-1.2.32.aar/6e85e108bb745393ce494d148bd4e12a/res" />
+      <root url="file://$PROJECT_DIR$/../DraggableTreeView-master/app/caches/transforms-1/files-1.1/view-pager-transforms-1.2.32.aar/6e85e108bb745393ce494d148bd4e12a/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/view-pager-transforms-1.2.32.aar/92475f9f24875d119e1ce375292c5a63/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-view-pager-transforms-1.2.32.aar/899b960fae57fe7dfe064824915e9f9f/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-view-pager-transforms-1.2.32.aar/899b960fae57fe7dfe064824915e9f9f/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-view-pager-transforms-1.2.32.aar/899b960fae57fe7dfe064824915e9f9f/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../DraggableTreeView-master/app/caches/modules-2/files-2.1/com.ToxicBakery.viewpager.transforms/view-pager-transforms/1.2.32/d59a4c11e83fd8646853d59f853508296c3f69da/view-pager-transforms-1.2.32-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
